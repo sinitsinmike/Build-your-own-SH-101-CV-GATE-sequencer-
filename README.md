@@ -1,6 +1,5 @@
 # Build-your-own-SH-101-CV-GATE-sequencer-
 Build your own SH-101 CV/GATE sequencer
-Build your own SH-101 CV/GATE sequencer for just 1200 yen - modular synth
 ![picture_pc_82b77ba2df97fa1968868f873a21f4f6](https://github.com/user-attachments/assets/fb023c9f-d4e4-43ac-8d8f-a563ac8a7ff1)
 
 ![picture_pc_d4e4c39e6fc0b734aa8125e9d854be4d (1)](https://github.com/user-attachments/assets/e923993f-329b-4800-b099-0e31028da608)
